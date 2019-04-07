@@ -23,60 +23,84 @@
         <?php include 'templates/header.php' ?>
         <div class="content">
             <div id="workarea">
-                <p>
-                    <b>«ВОЛГОРОСТ»</b>&nbsp; - оптово-розничный торговый центр, работающий в формате Cash &amp;
-                    Carry.
-                </p>
-                <p>
-                    Наш ассортимент представлен более 20 000 товарами от ведущих производителей России,
-                    &nbsp;Франции, Польши,
-                    Турции, Китая и других стран.
-                </p>
-                <p>
-                </p>
-                <h5>Наши преимущества:</h5>
-                <p>
-                    <span style="font-family: Verdana;">- огромный выбор и регулярное обновление
-                        ассортимента;</span>
-                </p>
-                <p>
-                    <span style="font-family: Verdana;">- отсутствие ограничений по сумме закупки и количеству
-                        товара;</span>
-                </p>
-                <p>
-                    <span style="font-family: Verdana;">- гибкая система скидок, индивидуальный подход к
-                        клиенту;</span>
-                </p>
-                <p>
-                    <span style="font-family: Verdana;">- быстрое обслуживание;</span>
-                </p>
-                <p>
-                    <span style="font-family: Verdana;">- услуги доставки и упаковки товара;</span>
-                </p>
-                <p>
-                    <span style="font-family: Verdana;">- удобный график работы.</span>
-                </p>
-                <p>
-                </p>
-                <hr>
-                <p>
-                </p>
-                <h5>Мы работаем для Вас!</h5>
-                <p>
-                    Общество с ограниченной ответственностью "ДОНАТА"
-                </p>
-                <p>
-                    ИНН&nbsp;<span style="font-family: Tahoma, Geneva;">6166101244</span>, КПП
-                    616601001,&nbsp;ОГРН&nbsp;1166196094030, ОКПО <span
-                        style="font-family: Tahoma, Geneva;">04295400</span>
-                </p>
-                <p>
-                    &nbsp;<img width="179" src="images/ba2d7415c94c0e97ea306c8637f4221e.jpg" height="250"
-                        border="1">&nbsp;<img width="179" src="images/59276dade08d416fa5f8d18e2502c282.jpg" height="250"
-                        border="1">&nbsp;<img width="181" src="images/a9e43d1aa24fb93d7895d535cd44c696.jpg" height="250"
-                        border="1">&nbsp;<img width="180" src="images/26ee931812ee2375bc50479470bd5ae5.jpg" height="250"
-                        border="1">
-                </p>
+                <section class="section who-we">
+                    <div class="who-we__container">
+                        <div class="section__title">Мы - Фаворит</div>
+                        <div class="who-we__content">
+                            <div class="who-we__text-left-quote who-we__text-quote">“</div>
+                            <div class="who-we__text">
+                                Достижение абсолютного лидерства <br>
+                                в области продаж товаров хозяйственно-бытового <br>
+                                назначения за счет высокого уровня <br>
+                                обслуживания и качества предоставляемых <br>
+                                услуг.
+                            </div>
+                            <div class="who-we__text-right-quote who-we__text-quote">”</div>
+                        </div>
+                        <div class="who-we__text">- Это наша глобальная цель</div>
+                    </div>
+                    <div class="who-we__img"><img src="images/main-1.png"></div>
+                </section>
+
+                <section class="section advantages">
+                    <div class="section__title">Еще 5 причин почему<br> мы лучшие</div>
+                    <div class="advantages__container">
+                        <div class="advantages__item">
+                            <div class="advantages__item-icon"><img src="images/icons/choices.svg"></div>
+                            огромный выбор <br>
+                            и регулярное <br>
+                            обновление ассортимента
+                        </div>
+                        <div class="advantages__item">
+                            <div class="advantages__item-icon"><img src="images/icons/tag.svg"></div>
+                            гибкая система скидок, <br>
+                            индивидуальный подход <br>
+                            к клиенту
+                        </div>
+                        <div class="advantages__item">
+                            <div class="advantages__item-icon"><img src="images/icons/infinity.svg"></div>
+                            отсутствие ограничений <br>
+                            по сумме закупки и <br>
+                            количеству товара
+                        </div>
+                        <div class="advantages__item">
+                            <div class="advantages__item-icon"><img src="images/icons/boxes.svg"></div>
+                            услуги доставки и <br>
+                            упаковки товара
+                        </div>
+                        <div class="advantages__item">
+                            <div class="advantages__item-icon"><img src="images/icons/productivity.svg"></div>
+                            удобный график <br>
+                            работы
+                        </div>
+                    </div>
+                </section>
+
+                <section class="section our-diplomas">
+                    <div class="section__title">Наши дипломы - знак качества</div>
+                    <div class="our-diplomas__container">
+                        <div class="our-diplomas__item"><img src="images/ba2d7415c94c0e97ea306c8637f4221e.jpg"></div>
+                        <div class="our-diplomas__item"><img src="images/59276dade08d416fa5f8d18e2502c282.jpg"></div>
+                        <div class="our-diplomas__item"><img src="images/a9e43d1aa24fb93d7895d535cd44c696.jpg"></div>
+                        <div class="our-diplomas__item"><img src="images/26ee931812ee2375bc50479470bd5ae5.jpg"></div>
+                    </div>
+                </section>
+
+                <section class="section your-welcome">
+                    <div class="your-welcome__container">
+                        <div class="your-welcome__img"><img src="images/main-2.png"></div>
+                        <div class="your-welcome__content">
+                            <div class="section__title">Добро пожаловать</div>
+                            <div class="your-welcome__text">
+                                Добро пожаловать к нам за подарками для Вашего дома и офиса, <br>
+                                для Вас, Ваших родных и близких, <br>
+                                для друзей, для начальства и сотрудников. <br>
+                                Двери наших гостеприимных магазинов открыты для Вас <br>
+                                с 9 до 20 ч. без перерывов и выходных.
+                            </div>
+                        </div>
+                    </div>
+                </section>
             </div>
         </div>
         <?php include 'templates/footer.php' ?>

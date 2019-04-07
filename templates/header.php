@@ -4,8 +4,7 @@
             <div class="header__logo-img"></div>
             <div class="header__logo-text">
                 <a href="/" title="На главную страницу">
-                    <span>Торговая компания</span>
-                    <b><span>ФАВОРИТ</span></b>
+                    <img src="images/logo.png">
                 </a>
             </div>
         </div>
@@ -13,7 +12,7 @@
         <div class="schedule">
             <div class="schedule__telephone">
                 <div class="schedule__telephone-icon">
-                    <img src="images/icons/customer-service-white.svg">
+                    <img src="images/icons/customer-service.svg">
                 </div>
                 <div class="schedule__telephone-container">
                     <div>
@@ -37,7 +36,7 @@
     <nav class="top-menu">
         <ul class="horizontal-multilevel-menu">
             <li class="root-item"><a href="/">ГЛАВНАЯ</a></li>
-            <li class="root-item"><a href="/catalog.php">КАТЕГОРИИ ТОВАРА</a></li>
+            <li class="root-item"><a href="/category.php">КАТЕГОРИИ ТОВАРОВ</a></li>
             <li class="root-item"><a href="/news.php">НОВОСТИ</a></li>
             <li class="root-item"><a href="/post.php">ПОСТАВЩИКАМ</a></li>
             <li class="root-item"><a href="/about.php">О КОМПАНИИ</a></li>
