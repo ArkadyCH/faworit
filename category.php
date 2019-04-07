@@ -26,7 +26,7 @@
                         <img src="images/home.gif" alt="На главную страницу" />
                     </a>
                     <i>&ndash;</i>
-                    <a href="about.php" title="О компании">Категории товаров</a>
+                    <a href="category.php" title="Категории товаров">Категории товаров</a>
                 </div>
             </div>
             <div class="workarea">
@@ -132,7 +132,7 @@
                 </section>
                 <section class="section call-me">
                     <div class="call-me__content">
-                        Есть еще вопросы? Звони по номеру: <a href="tel:8632185659">(863) 218 56 59</a>
+                        Полный каталог товаров по номеру телефона:  <a href="tel:8632185659">(863) 218 56 59</a>
                     </div>
                 </section>
             </div>

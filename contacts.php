@@ -27,7 +27,7 @@
                         <img src="images/home.gif" alt="На главную страницу" />
                     </a>
                     <i>&ndash;</i>
-                    <a href="news.php" title="Новости">Новости</a>
+                    <a href="contacts.php" title="Контакты">Контакты</a>
                 </div>
             </div>
             <div class="workarea">
@@ -42,7 +42,7 @@
                 </p>
                 <p>
                     <b>E-mail</b>: <a
-                        href="mailto://rostov.volgorost.ru/about/contacts/sales@rostvolg.ru">sales@rostvolg.ru</a>
+                        href="mailto:sales@rostvolg.ru">sales@rostvolg.ru</a>
                 </p>
                 <h5><span style="font-family: Arial; font-size: 14pt;">Отдел закупок:&nbsp;</span></h5>
                 <p>
@@ -50,7 +50,7 @@
                 </p>
                 <p>
                     <b>E-mail</b>:<a
-                        href="mailto://rostov.volgorost.ru/about/contacts/zakupki@rostvolg.ru">zakupki@rostvolg.ru</a>
+                        href="mailto:zakupki@rostvolg.ru">zakupki@rostvolg.ru</a>
                 </p>
                 <h5><span style="font-size: 14pt;">Секретарь:&nbsp;</span></h5>
                 <p>
@@ -58,7 +58,7 @@
                 </p>
                 <p>
                     <b>E-mail</b>: <a
-                        href="mailto://rostov.volgorost.ru/about/contacts/info@rostvolg.ru">info@rostvolg.ru</a>
+                        href="mailto:info@rostvolg.ru">info@rostvolg.ru</a>
                 </p>
                 <p>
                 </p>

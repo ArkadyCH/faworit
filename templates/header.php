@@ -16,10 +16,10 @@
                 </div>
                 <div class="schedule__telephone-container">
                     <div>
-                        (863) 218 56 59, 218 56 63
+                        <a href="tel:8632185659">(863) 218 56 59</a>, <a href="tel:8632185663">218 56 63</a>
                     </div>
                     <div>
-                        (863) 218 56 68, 218 56 69
+                        <a href="tel:8632185668">(863) 218 56 68</a>, <a href="tel:8632185669">218 56 69</a>
                     </div>
                 </div>
             </div>

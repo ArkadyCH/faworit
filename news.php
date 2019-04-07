@@ -33,10 +33,8 @@
             </div>
             <div class="workarea">
                 <h1>Новости</h1>
-                <b>
-                    <img width="800" height="414" src="images/3213654687.png">
-                    <br>
-                </b>
+                <div class="news__img"><img width="800" height="414" src="images/3213654687.png"></div>
+                <br>
                 <b>
                     <i>
                         <span>

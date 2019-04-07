@@ -276,6 +276,11 @@ html,body {
   color: #000;
 
 }
+.news__img{
+  display: flex;
+  justify-content: center;
+  padding-bottom: 10px;
+}
 .footer{
   height: 85px;
   max-width: 1000px;

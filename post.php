@@ -117,7 +117,7 @@
                     <li>
                         <p style="margin-top: 0.02in; margin-bottom: 0.02in;">
                             <font size="4" face="Arial">Подготовьте шаблон договора и копии
-                                документов по <a href="#*">перечню</a>.</font>
+                                документов.</font>
                         </p>
                     </li>
 
@@ -141,7 +141,7 @@
                 <p align="JUSTIFY"
                     style="background-color: rgb(255, 255, 255); margin-left: 0.49in; margin-bottom: 0.14in;">
                     <font face="Verdana">e-mail: <a
-                            href="mailto://rostov.volgorost.ru/post/zakupki@rostvolg.ru">zakupki@rostvolg.ru</a>
+                            href="mailto:zakupki@rostvolg.ru">zakupki@rostvolg.ru</a>
                     </font>
                 </p>
 

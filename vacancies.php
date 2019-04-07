@@ -29,7 +29,7 @@
                         <img src="images/home.gif" alt="На главную страницу" />
                     </a>
                     <i>&ndash;</i>
-                    <a href="news.php" title="Новости">Новости</a>
+                    <a href="vacancies.php" title="Вакансии">Вакансии</a>
                 </div>
             </div>
             <div class="workarea">
@@ -53,7 +53,7 @@
                         <p>г.Ростов-на-Дону, ул.Туполева, 16 Ж, с 12 до 16. тел. (863) 218-56-60, 218-56-61,
                             218-56-62</p>
                         <p>Вы можете отправить нам свое резюме или заполненную анкету по адресу <a
-                                href="mailto://rostov.volgorost.ru/vacancies/info@rostvolg.ru">
+                                href="mailto:info@rostvolg.ru">
                                 info@rostvolg.ru</a>.
                             <p><a href="/upload/anketa.doc">СКАЧАТЬ АНКЕТУ</a></p>
 
