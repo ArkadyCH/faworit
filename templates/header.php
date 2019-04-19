@@ -4,7 +4,7 @@
             <div class="header__logo-img"></div>
             <div class="header__logo-text">
                 <a href="/" title="На главную страницу">
-                    <img src="images/logo.png">
+                    <img src="images/logo-header.png">
                 </a>
             </div>
         </div>

@@ -73,9 +73,9 @@
                 <p>
                     <b>Схема проезда</b>:
                 </p>
-                <iframe width="100%"
-                    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1353.329248659893!2d39.80253526801183!3d47.281929913144914!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x40e3b70d2eecbd6b%3A0x2881a63393b0ed59!2z0YPQuy4g0KLRg9C_0L7Qu9C10LLQsCwgMTbQtiwg0KDQvtGB0YLQvtCyLdC90LAt0JTQvtC90YMsINCg0L7RgdGC0L7QstGB0LrQsNGPINC-0LHQuy4sIDM0NDA5Mw!5e0!3m2!1sru!2sru!4v1554040425642!5m2!1sru!2sru"
-                    width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+                    <iframe width="100%" 
+                        src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3827.78960871288!2d39.80975712385971!3d47.281978935476744!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x40e3b71d03bba7c3%3A0xa461789e7dd613e8!2z0JLQvtC70LPQvtCg0L7RgdGC!5e0!3m2!1sru!2sru!4v1555142250326!5m2!1sru!2sru" 
+                        width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
                 <p>
                 </p>
                 <p>

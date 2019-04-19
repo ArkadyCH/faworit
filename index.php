@@ -24,21 +24,6 @@
         <div class="content">
             <div id="workarea">
                 <section class="section who-we">
-                    <div class="who-we__container">
-                        <div class="section__title">Мы - Фаворит</div>
-                        <div class="who-we__content">
-                            <div class="who-we__text-left-quote who-we__text-quote">“</div>
-                            <div class="who-we__text">
-                                Достижение абсолютного лидерства <br>
-                                в области продаж товаров хозяйственно-бытового <br>
-                                назначения за счет высокого уровня <br>
-                                обслуживания и качества предоставляемых <br>
-                                услуг.
-                            </div>
-                            <div class="who-we__text-right-quote who-we__text-quote">”</div>
-                        </div>
-                        <div class="who-we__text">- Это наша глобальная цель</div>
-                    </div>
                     <div class="who-we__img"><img src="images/main-1.png"></div>
                 </section>
 

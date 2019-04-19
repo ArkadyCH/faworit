@@ -10,6 +10,9 @@ body
 html,body {
   height: 100%;
 }
+h1,h2,h3,h4{
+  color: #5AB45A;
+}
 .page-wrapper {
   display: flex;
   flex-direction: column;
@@ -25,12 +28,13 @@ html,body {
 }
 
 .header{
-  background: #eff2f5;
-  color: #000000;
+  /*background: #efef69;*/
+  background: url('/images/bg-header.png') no-repeat;
+  color: #000;
   padding-top: 10px;
 }
 .header a{
-  color: #000000;
+  color: #000;
   text-decoration: none;
 }
 .header__container{
@@ -50,6 +54,7 @@ html,body {
   flex-direction: column;
   font-family: Georgia, serif;
   font-size: 26px;
+  margin-top: 43px
 }
 
 .schedule__telephone{
@@ -75,13 +80,14 @@ html,body {
   margin: 0 auto;
 }
 .horizontal-multilevel-menu{
-  background: #eff2f5;
+  background: #5AB45A;
   display: flex;
   list-style: none;
   font-size: 11px;
   justify-content: space-around;
   margin: 10px 0 0 0;
   padding: 0 50px;
+  border-radius: 25px;
 }
 .horizontal-multilevel-menu a{
   display: block;
@@ -90,17 +96,15 @@ html,body {
   text-align: center
 }
 .horizontal-multilevel-menu .root-item a{
-    color: #000;
+    color: #fff;
     font-weight: bold;
     padding: 7px 12px;
 }
 .horizontal-multilevel-menu .root-item-selected a{
-  color: #fff;
-  background: #fc8d3d;
+  color: #CDE8CD;
 }
 .horizontal-multilevel-menu li a:hover{
-  color: #fff;
-  background: #fc8d3d;
+  color: #CDE8CD;
 }
 
 .section{
@@ -111,11 +115,11 @@ html,body {
   justify-content: center;
   text-align: center;
   font-size: 26px;
+  color: #5AB45A;
 }
 .who-we{
   display: flex;
-  justify-content: space-between;
-  align-items: center;
+  justify-content: center;
 }
 .who-we__container{
   max-width:450px;
@@ -246,6 +250,7 @@ html,body {
 }
 .category__title{
   font-size: 24px;
+  color: #5AB45A;
 }
 .category__divider{
   height: 1px;

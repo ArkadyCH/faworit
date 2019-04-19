@@ -1,8 +1,8 @@
 body {  color: #000;}
 body, div.catalog-item, div.catalog-section, div.catalog-detail, div.faq-item { background-color: #FFF;}
 
-.footer-links li a:link {color:#506CBC;}
-.footer-links li a:visited {color:#506CBC;}
+.footer-links li a:link {color:#5AB45A;}
+.footer-links li a:visited {color:#5AB45A;}
 .footer-links li a:hover {color:#EA0000;}
 .footer-links li a:active {color:#506CBC;}
 
