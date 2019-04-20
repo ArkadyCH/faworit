@@ -29,8 +29,8 @@ h1,h2,h3,h4{
 
 .header{
   /*background: #efef69;*/
-  background: url('/images/bg-header.png') no-repeat;
-  color: #000;
+  background: #5AB45A;
+  color: #feff93;
   padding-top: 10px;
 }
 .header a{
@@ -54,7 +54,6 @@ h1,h2,h3,h4{
   flex-direction: column;
   font-family: Georgia, serif;
   font-size: 26px;
-  margin-top: 43px
 }
 
 .schedule__telephone{
@@ -71,6 +70,12 @@ h1,h2,h3,h4{
 .schedule__telephone-container{
   font-size: 18px;
 }
+.schedule__telephone-container a{
+  color: #feff93
+}
+.schedule__address,.schedule__days{
+  color: #feff93
+}
 .schedule__info{
   text-align: end;
 }
@@ -80,7 +85,7 @@ h1,h2,h3,h4{
   margin: 0 auto;
 }
 .horizontal-multilevel-menu{
-  background: #5AB45A;
+  background: #feff93;
   display: flex;
   list-style: none;
   font-size: 11px;
@@ -96,15 +101,15 @@ h1,h2,h3,h4{
   text-align: center
 }
 .horizontal-multilevel-menu .root-item a{
-    color: #fff;
+    color: #000;
     font-weight: bold;
     padding: 7px 12px;
 }
 .horizontal-multilevel-menu .root-item-selected a{
-  color: #CDE8CD;
+  color: #5AB45A;
 }
 .horizontal-multilevel-menu li a:hover{
-  color: #CDE8CD;
+  color: #5AB45A;
 }
 
 .section{

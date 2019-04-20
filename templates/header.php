@@ -1,8 +1,7 @@
 <header class="header">
     <div class="header__container">
         <div class="header__logo">
-            <div class="header__logo-img"></div>
-            <div class="header__logo-text">
+            <div class="header__logo-img">
                 <a href="/" title="На главную страницу">
                     <img src="images/logo-header.png">
                 </a>
@@ -12,7 +11,7 @@
         <div class="schedule">
             <div class="schedule__telephone">
                 <div class="schedule__telephone-icon">
-                    <img src="images/icons/customer-service.svg">
+                    <img src="images/icons/customer-service-yellow.svg">
                 </div>
                 <div class="schedule__telephone-container">
                     <div>
